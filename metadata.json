@@ -1,0 +1,10 @@
+{
+  "name": "E-Trotti Tuner Pro",
+  "description": "E-Trotti Tuning & Cockpit App with dynamic radial gauge charts, live telemetry, and model-specific tuning options.",
+  "requestFramePermissions": [
+    "bluetooth"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
